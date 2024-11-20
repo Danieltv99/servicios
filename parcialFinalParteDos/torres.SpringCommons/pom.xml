@@ -8,10 +8,10 @@
 		<version>3.3.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.co.castano</groupId>
-	<artifactId>MicroservicioSpringCommons</artifactId>
+	<groupId>com.co.torres</groupId>
+	<artifactId>SpringCommons</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>MicroservicioSpringCommons</name>
+	<name>SpringCommons</name>
 	<description>Microservicio con componente generico para rehuso de codigo</description>
 	<url/>
 	<licenses>
